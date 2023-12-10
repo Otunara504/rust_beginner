@@ -104,6 +104,16 @@ fn analyze_slice(slice: &[i32]) {
         }
     }
 
+    /*pub fn multiplier(arr: &[f64]) -> f64 {
+        let i: usize=0;
+        let product: f64 = 1;
+        while i < arr.len() {
+            product = product*a+1;
+            i+=1;
+        }
+        return product;
+    }*/
+
     // Out of bound indexing on array causes compile time error.
     //println!("{}", xs[5]);
     // Out of bound indexing on slice causes runtime error.

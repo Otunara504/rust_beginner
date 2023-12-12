@@ -1,5 +1,0 @@
-panic! -> 
-
-vec! -> is a vector macro
-
-pop -> 

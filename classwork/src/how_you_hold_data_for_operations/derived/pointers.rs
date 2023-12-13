@@ -225,5 +225,5 @@ pub fn run2(){
         rectangle1;
     }
     //No longer possible to use rectangle1 below. Single owner
-    //println!("Area of {} = {}", rectangle1.name, rectangle1.area());//rectangle1.area() is statically dispatched
+    //println!("Area of {} = {}", rectangle1.name, rectangle1.area());//rectangle1.area() is 
 }

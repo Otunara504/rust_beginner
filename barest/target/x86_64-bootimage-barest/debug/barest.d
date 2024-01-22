@@ -1,0 +1,1 @@
+C:\Users\Maryam_Otunara\OneDrive\Desktop\SCHOOL\Yr3\ Sem1\CSC\ 305\rust_beginner\barest\target\x86_64-bootimage-barest\debug\barest: C:\Users\Maryam_Otunara\OneDrive\Desktop\SCHOOL\Yr3\ Sem1\CSC\ 305\rust_beginner\barest\src\main.rs

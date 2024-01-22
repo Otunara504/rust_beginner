@@ -1,0 +1,9 @@
+C:\Users\Maryam_Otunara\OneDrive\Desktop\SCHOOL\Yr3 Sem1\CSC 305\rust_beginner\barest\target\x86_64-bootimage-barest\debug\deps\libbootloader-f53510c869c9df1b.rmeta: C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\Maryam_Otunara\OneDrive\Desktop\SCHOOL\Yr3 Sem1\CSC 305\rust_beginner\barest\target\x86_64-bootimage-barest\debug\deps\libbootloader-f53510c869c9df1b.rlib: C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\Maryam_Otunara\OneDrive\Desktop\SCHOOL\Yr3 Sem1\CSC 305\rust_beginner\barest\target\x86_64-bootimage-barest\debug\deps\bootloader-f53510c869c9df1b.d: C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs:
+C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs:
+C:\Users\Maryam_Otunara\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs:
